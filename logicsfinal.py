@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug 25 11:31:59 2021
 
-@author: mohit
-"""
 import random
 def startgame():
     mat = []
