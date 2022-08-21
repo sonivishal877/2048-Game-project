@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 26 13:10:23 2021
 
-@author: constants file
-"""
 SIZE = 400
 GRID_LEN = 4
 GRID_PADDING = 10
