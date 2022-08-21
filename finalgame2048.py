@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 26 13:34:40 2021
 
-@author: mohit
-"""
 
 from TKinter import Frame,Label,CENTER
 
